@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="test">test</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="nic"></string>
+    <string name="runda">Runda</string>
+    <string name="wynik_X">Wynik X: </string>
+    <string name="wynik_O"> :O Wynik</string>
+
+</resources>
